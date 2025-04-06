@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0px;
     padding: 0px;
@@ -65,4 +66,73 @@
 .pincon{
     font-size: 10px;
     color: grey;
+=======
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: black;
+    color: pink;
+    padding: 10px;
+    li,ul,h1{
+        display: inline-block;
+    }
+    ul{
+        margin-left: 70%;
+    }
+    li{
+        color: grey;
+        cursor: pointer;
+    }
+    li:hover{
+        color: whitesmoke;
+    }
+}
+
+.searchbar{
+    padding: 15px;
+    text-align: center;
+    input{
+        width: 40%;
+        padding: 10px;
+    }
+}
+
+.products{
+    text-align: center;
+    .product{
+        border-width: 2px;
+        border-style: solid;
+        border-color: brown;
+        display: inline-block;
+        width: 250px;
+    }
+    .product:hover{
+        background-color: black;
+        color: white;
+    }
+}
+
+.about{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+.contact{
+    margin-top: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.pincon{
+    font-size: 10px;
+    color: grey;
+>>>>>>> eec6540132ea0fecf9451b5606e97129c39d8e0b
 }
