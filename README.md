@@ -6,7 +6,8 @@ This is a simple, responsive HTML & CSS project that showcases a collection of p
 
 ## 📸 Preview
 
-![Screenshot](./perfumey website photo.png)
+![Screenshot](./perfumey%20website%20photo.png)
+
 
 ---
 
